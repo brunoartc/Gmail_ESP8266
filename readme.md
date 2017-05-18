@@ -1,0 +1,1 @@
+https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
